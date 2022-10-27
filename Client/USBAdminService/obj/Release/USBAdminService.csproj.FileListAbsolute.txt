@@ -1,0 +1,14 @@
+C:\CodeRepos\USBAdmin2.0\Publish\Agent\dll\USBAdminService.exe
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Release\USBAdminService.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Release\USBAdminService.ProjectInstaller.resources
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Release\USBAdminService.csproj.GenerateResource.cache
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Release\USBAdminService.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Release\USBAdminService.csproj.CopyComplete
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Release\USBAdminService.exe
+C:\CodeRepos\USBAdmin3.0\Publish\Agent\dll\USBAdminService.exe
+C:\CodeRepos\USBAdmin3.0\Client\USBAdminService\obj\Release\USBAdminService.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin3.0\Client\USBAdminService\obj\Release\USBAdminService.ProjectInstaller.resources
+C:\CodeRepos\USBAdmin3.0\Client\USBAdminService\obj\Release\USBAdminService.csproj.GenerateResource.cache
+C:\CodeRepos\USBAdmin3.0\Client\USBAdminService\obj\Release\USBAdminService.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin3.0\Client\USBAdminService\obj\Release\USBAdminService.csproj.CopyComplete
+C:\CodeRepos\USBAdmin3.0\Client\USBAdminService\obj\Release\USBAdminService.exe

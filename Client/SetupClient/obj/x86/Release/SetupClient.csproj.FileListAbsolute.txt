@@ -1,0 +1,13 @@
+C:\CodeRepos\USBAdmin\Client\SetupClient\bin\x86\Release\setupDebug.ini
+C:\CodeRepos\USBAdmin\Client\SetupClient\bin\x86\Release\setup.ini
+C:\CodeRepos\USBAdmin\Client\SetupClient\bin\x86\Release\Setup.exe
+C:\CodeRepos\USBAdmin\Client\SetupClient\obj\x86\Release\SetupClient.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin\Client\SetupClient\obj\x86\Release\Setup.exe
+C:\CodeRepos\USBAdmin\publish\Agent\Setup.exe
+C:\CodeRepos\USBAdmin\publish\Agent\Setup.pdb
+C:\CodeRepos\USBAdmin\Client\SetupClient\obj\x86\Release\Setup.pdb
+C:\CodeRepos\USBAdmin\Client\SetupClient\obj\x86\Release\SetupClient.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin2.0\publish\Agent\Setup.exe
+C:\CodeRepos\USBAdmin2.0\Client\SetupClient\obj\x86\Release\SetupClient.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin2.0\Client\SetupClient\obj\x86\Release\Setup.exe
+C:\CodeRepos\USBAdmin2.0\Client\SetupClient\obj\x86\Release\SetupClient.csproj.AssemblyReference.cache

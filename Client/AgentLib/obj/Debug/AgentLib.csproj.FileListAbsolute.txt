@@ -1,0 +1,20 @@
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\bin\Debug\AgentLib.dll
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\bin\Debug\AgentLib.pdb
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\obj\Debug\AgentLib.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\obj\Debug\AgentLib.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\obj\Debug\AgentLib.dll
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\obj\Debug\AgentLib.pdb
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\bin\Debug\Newtonsoft.Json.dll
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\bin\Debug\ToolsCommon.dll
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\bin\Debug\Newtonsoft.Json.xml
+C:\CodeRepos\USBAdmin - test\Client\AgentLib\obj\Debug\AgentLib.csproj.CopyComplete
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\bin\Debug\AgentLib.dll
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\bin\Debug\AgentLib.pdb
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\bin\Debug\Newtonsoft.Json.dll
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\bin\Debug\ToolsCommon.dll
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\bin\Debug\Newtonsoft.Json.xml
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\obj\Debug\AgentLib.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\obj\Debug\AgentLib.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\obj\Debug\AgentLib.csproj.CopyComplete
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\obj\Debug\AgentLib.dll
+C:\CodeRepos\USBAdmin2.0\Client\AgentLib\obj\Debug\AgentLib.pdb

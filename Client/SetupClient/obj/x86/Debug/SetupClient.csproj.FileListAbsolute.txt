@@ -1,0 +1,6 @@
+C:\CodeRepos\USBAdmin\Client\SetupClient\bin\x86\Debug\Setup.exe
+C:\CodeRepos\USBAdmin\Client\SetupClient\bin\x86\Debug\Setup.pdb
+C:\CodeRepos\USBAdmin\Client\SetupClient\obj\x86\Debug\SetupClient.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin\Client\SetupClient\obj\x86\Debug\SetupClient.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin\Client\SetupClient\obj\x86\Debug\Setup.exe
+C:\CodeRepos\USBAdmin\Client\SetupClient\obj\x86\Debug\Setup.pdb

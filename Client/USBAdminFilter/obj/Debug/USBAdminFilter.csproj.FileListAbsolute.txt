@@ -1,0 +1,17 @@
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\USBAdminFilter.exe
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\USBAdminFilter.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\AgentLib.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\NamedPipeWrapper.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\ToolsCommon.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\Newtonsoft.Json.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\AgentLib.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\NamedPipeWrapper.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\bin\Debug\Newtonsoft.Json.xml
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\obj\Debug\USBAdminFilter.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\obj\Debug\USBAdminFilter.USBFilterForm.resources
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\obj\Debug\USBAdminFilter.Properties.Resources.resources
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\obj\Debug\USBAdminFilter.csproj.GenerateResource.cache
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\obj\Debug\USBAdminFilter.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\obj\Debug\USBAdminFilter.csproj.CopyComplete
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\obj\Debug\USBAdminFilter.exe
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminFilter\obj\Debug\USBAdminFilter.pdb

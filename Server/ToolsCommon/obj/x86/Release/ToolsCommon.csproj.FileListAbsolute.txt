@@ -1,0 +1,4 @@
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\bin\x86\Release\ToolsCommon.dll
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\x86\Release\ToolsCommon.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\x86\Release\ToolsCommon.dll
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\x86\Release\ToolsCommon.csproj.AssemblyReference.cache

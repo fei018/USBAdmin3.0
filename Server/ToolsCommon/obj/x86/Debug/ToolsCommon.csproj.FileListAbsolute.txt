@@ -1,0 +1,6 @@
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\bin\x86\Debug\ToolsCommon.dll
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\bin\x86\Debug\ToolsCommon.pdb
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\x86\Debug\ToolsCommon.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\x86\Debug\ToolsCommon.dll
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\x86\Debug\ToolsCommon.pdb
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\x86\Debug\ToolsCommon.csproj.AssemblyReference.cache

@@ -1,0 +1,34 @@
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\bin\Debug\USBAdminService.exe.config
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\bin\Debug\USBAdminService.exe
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\bin\Debug\USBAdminService.pdb
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\obj\Debug\USBAdminService.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\obj\Debug\USBAdminService.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\obj\Debug\USBAdminService.exe
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\obj\Debug\USBAdminService.pdb
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\bin\Debug\AgentLib.dll
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\bin\Debug\ToolsCommon.dll
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\bin\Debug\Newtonsoft.Json.dll
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\bin\Debug\AgentLib.pdb
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\bin\Debug\Newtonsoft.Json.xml
+C:\CodeRepos\USBAdmin - test\Client\USBAdminService\obj\Debug\USBAdminService.csproj.CopyComplete
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\USBAdminService.exe.config
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\USBAdminService.exe
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\USBAdminService.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\AgentLib.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\NamedPipeWrapper.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\ToolsCommon.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\Newtonsoft.Json.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\AgentLib.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\NamedPipeWrapper.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\Newtonsoft.Json.xml
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Debug\USBAdminService.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Debug\USBAdminService.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Debug\USBAdminService.csproj.CopyComplete
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Debug\USBAdminService.exe
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\obj\Debug\USBAdminService.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\USBAdminFilter.exe
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\USBAdminTray.exe
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\zxing.dll
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\USBAdminFilter.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\USBAdminTray.pdb
+C:\CodeRepos\USBAdmin2.0\Client\USBAdminService\bin\Debug\zxing.xml

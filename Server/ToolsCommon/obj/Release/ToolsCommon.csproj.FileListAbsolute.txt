@@ -1,0 +1,16 @@
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\bin\Release\ToolsCommon.dll
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\Release\ToolsCommon.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\Release\ToolsCommon.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin\Server\ToolsCommon\obj\Release\ToolsCommon.dll
+C:\CodeRepos\USBAdmin - test\Server\ToolsCommon\obj\Release\ToolsCommon.dll
+C:\CodeRepos\USBAdmin2.0\Server\ToolsCommon\bin\Release\ToolsCommon.dll
+C:\CodeRepos\USBAdmin2.0\Server\ToolsCommon\obj\Release\ToolsCommon.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin2.0\Server\ToolsCommon\obj\Release\ToolsCommon.dll
+C:\Code\GitHub\USBAdmin2.0\Server\ToolsCommon\bin\Release\ToolsCommon.dll
+C:\Code\GitHub\USBAdmin2.0\Server\ToolsCommon\obj\Release\ToolsCommon.csproj.AssemblyReference.cache
+C:\Code\GitHub\USBAdmin2.0\Server\ToolsCommon\obj\Release\ToolsCommon.csproj.CoreCompileInputs.cache
+C:\Code\GitHub\USBAdmin2.0\Server\ToolsCommon\obj\Release\ToolsCommon.dll
+C:\CodeRepos\USBAdmin2.0\Server\ToolsCommon\obj\Release\ToolsCommon.csproj.AssemblyReference.cache
+C:\CodeRepos\USBAdmin3.0\Server\ToolsCommon\bin\Release\ToolsCommon.dll
+C:\CodeRepos\USBAdmin3.0\Server\ToolsCommon\obj\Release\ToolsCommon.csproj.CoreCompileInputs.cache
+C:\CodeRepos\USBAdmin3.0\Server\ToolsCommon\obj\Release\ToolsCommon.dll
