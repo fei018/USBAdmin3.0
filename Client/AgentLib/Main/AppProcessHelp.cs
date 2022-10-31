@@ -7,8 +7,6 @@ namespace AgentLib
 {
     public class AppProcessHelp
     {
-        private const int _timeoutMillisecond = 2000;
-
         // static function
 
         #region + public static Process StartupApp(string appFullPath, string userName=null)
@@ -52,10 +50,6 @@ namespace AgentLib
                 if (sessionid > 0)
                 {
                     proc = ProcessApiHelp.CreateProcessAsUser(appFullPath, null);
-                }
-                else
-                {
-                    throw new Exception("AppProcessHelp.StartupProcessAsLogonUser(): ProcessApiHelp.GetCurrentUserSessionID() <= 0 , " + appFullPath);
                 }
 
                 return proc;

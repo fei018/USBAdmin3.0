@@ -1,6 +1,7 @@
 ﻿using AgentLib;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
@@ -73,9 +74,8 @@ namespace USBAdminService
 
                 _trayProcessList.Add(proc);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                AgentLogger.Error("TrayWpfServer.CreateTray(): " + ex.GetBaseException().Message);
             }
         }
     }

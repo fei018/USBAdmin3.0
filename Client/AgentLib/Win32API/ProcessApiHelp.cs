@@ -103,6 +103,16 @@ namespace AgentLib.Win32API
         {
             uint dwSessionId = (uint)ProcessApi.WTSGetActiveConsoleSessionId();
 
+            if (dwSessionId == 0xFFFFFFFF)
+            {
+                return -1;
+            }
+
+            if (dwSessionId == 0)
+            {
+                return 0;
+            }
+
             // gets the Id of the User logged in with WinLogOn
             Process[] processes = Process.GetProcessesByName("winlogon");
             foreach (Process p in processes)

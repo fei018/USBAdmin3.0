@@ -1,17 +1,8 @@
-﻿using System;
+﻿using AgentLib;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
-using AgentLib;
 
 namespace USBAdminTray
 {
@@ -49,16 +40,24 @@ namespace USBAdminTray
         {
             Task.Factory.StartNew(() =>
             {
-                List<UsbDisk> usblist = new UsbFilter().Scan_All_USBDisk_Get_Details();
-                Dispatcher.Invoke(() =>
+                try
                 {
-                    lv_ReadOnlyUSBList.ItemsSource = usblist;
-                });
+                    List<UsbDisk> usblist = new UsbFilter().Scan_All_USBDisk_Get_Details();
+                    Dispatcher.Invoke(() =>
+                    {
+                        lv_ReadOnlyUSBList.ItemsSource = usblist;
+                    });
+                }
+                catch (Exception)
+                {
+                }
             });
         }
 
         private void lv_ReadOnlyUSBList_cm_QRCode_Click(object sender, RoutedEventArgs e)
         {
+            e.Handled = true;
+
             if (lv_ReadOnlyUSBList.SelectedItem is UsbDisk usb)
             {
                 Dispatcher.Invoke(new Action(() =>
@@ -75,6 +74,12 @@ namespace USBAdminTray
                     }
                 }));
             }
+        }
+
+        private void btnRefreshUSBList_Click(object sender, RoutedEventArgs e)
+        {
+            e.Handled = true;
+            lv_ReadOnlyUSBList_Refresh();
         }
     }
 }

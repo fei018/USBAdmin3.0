@@ -12,7 +12,11 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <TextBlock Text="USB Disk List" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <Grid>
+            <TextBlock Text="USB Disk List" FontSize="14" Margin="5 0" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Button Name="btnRefreshUSBList" Width="50px" HorizontalAlignment="Right" Margin="10 2" Content="Refresh"
+                    Click="btnRefreshUSBList_Click"></Button>
+        </Grid>
 
         <ListView Grid.Row="1" Name="lv_ReadOnlyUSBList" >
             <ListView.View>

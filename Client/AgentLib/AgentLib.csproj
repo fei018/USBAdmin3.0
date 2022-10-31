@@ -123,7 +123,7 @@
     </Compile>
     <Compile Include="GithubCode\UsbMonitor\UsbVolumeFlags.cs" />
     <Compile Include="Win32API\ProcessApi.cs" />
-    <Compile Include="Win32API\ProcessApiHelper.cs" />
+    <Compile Include="Win32API\ProcessApiHelp.cs" />
     <Compile Include="Win32API\UFileApi.cs" />
     <Compile Include="Win32API\USetupApi.cs" />
     <Compile Include="Win32API\USetupApiFun.cs" />
